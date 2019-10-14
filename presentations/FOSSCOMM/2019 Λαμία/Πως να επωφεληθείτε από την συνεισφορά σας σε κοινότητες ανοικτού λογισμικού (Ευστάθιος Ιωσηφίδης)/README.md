@@ -11,11 +11,13 @@
 #### Ιστοσελίδες που αναφέρονται στις διαφάνειες
 
 >openSUSE  
+
 Travel Support Program  
 * https://connect.opensuse.org/travel-support/  
 * https://en.opensuse.org/openSUSE:Travel_Support_Program  
 
 >GNOME  
+
 Travel Sponsorship  
 * https://wiki.gnome.org/Travel  
 
